@@ -1,0 +1,8 @@
+C:\Users\dotop\source\repos\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe.config
+C:\Users\dotop\source\repos\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe
+C:\Users\dotop\source\repos\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.pdb
+C:\Users\dotop\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.AssemblyReference.cache
+C:\Users\dotop\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\dotop\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\dotop\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.exe
+C:\Users\dotop\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.pdb
